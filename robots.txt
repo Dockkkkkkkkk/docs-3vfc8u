@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-gs0q8q.kujang138bos.online/sitemap.xml
